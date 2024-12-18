@@ -13,8 +13,8 @@ import java.time.Duration;
 
 public class TC013 extends BaseTest {
 
-    @Test
-    public void Login() {
+    @Test (groups = {"TS004"})
+    public void SelectArtist4() {
         logger.info("***  Starting TC013 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

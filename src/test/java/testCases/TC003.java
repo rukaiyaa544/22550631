@@ -10,8 +10,8 @@ import testBase.BaseTest;
 
 public class TC003 extends BaseTest {
 
-    @Test
-    public void Login(){
+    @Test (groups = {"TS001"})
+    public void Login3(){
         logger.info("***  Starting TC003 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

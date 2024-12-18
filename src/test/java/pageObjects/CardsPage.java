@@ -1,9 +1,12 @@
 package pageObjects;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.util.Random;
@@ -126,8 +129,8 @@ public class CardsPage extends BasePage {
 
     public void clickProduct(Integer itemNumber) {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-        //List<WebElement> searchResults = driver.findElements(By.xpath("//div[@class='container']//div[@class='product-grid']//div[@id='wv1IMV6Q25']"));
-        List<WebElement> searchResults = driver.findElements(By.xpath("//div[@class='container']//div[@class='product-grid']//div[contains(@class,'listWrapper')]"));
+        List<WebElement> searchResults = driver.findElements(By.xpath("//section[@class='category-product-section section']"));
+
 
         if (itemNumber < 0 || itemNumber >= searchResults.size()) {
             System.err.println("Invalid item number: " + itemNumber);
@@ -138,12 +141,6 @@ public class CardsPage extends BasePage {
         product.click();
         System.out.println("Clicked on product number: " + itemNumber);
     }
-
-
-
-
-
-
 
 
 }

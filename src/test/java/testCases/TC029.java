@@ -7,7 +7,7 @@ import utilities.Scroll;
 
 public class TC029 extends BaseTest {
 
-    @Test(priority = 1)
+    @Test(priority = 1, groups = {"TS006"})
     public void ScrollingBottom() {
         logger.info("***  Starting TC029 Test Case  ***");
         try {
@@ -22,7 +22,7 @@ public class TC029 extends BaseTest {
     }
 
 
-    @Test(priority = 2)
+    @Test(priority = 2, groups = {"TS006"})
     public void ScrollingUp() {
         logger.info("***  Starting TC029 Test Case  ***");
         try {
@@ -38,7 +38,7 @@ public class TC029 extends BaseTest {
     }
 
 
-    @Test(priority = 3)
+    @Test(priority = 3, groups = {"TS006"})
     public void ScrollingAtPosition() {
         logger.info("***  Starting TC029 Test Case  ***");
         try {

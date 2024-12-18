@@ -18,7 +18,7 @@ public class HomePage extends BasePage {
     }
 
     // Locators
-    @FindBy(xpath = "//a[@name='Login']")
+    @FindBy(xpath = "//a[@name='LoginBack']")
     WebElement loginLink;
 
     @FindBy(xpath = "//i[@class='fas fa-search']")

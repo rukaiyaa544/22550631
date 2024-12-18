@@ -2,6 +2,18 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite" parallel="methods" thread-count="2">
 
+    <groups>
+        <run>
+<!--            <include name="TS001"></include>-->
+<!--            <include name="TS002"></include>-->
+<!--            <include name="TS003"></include>-->
+<!--            <include name="TS004"></include>-->
+<!--            <include name="TS005"></include>-->
+            <include name="TS006"></include>
+            <include name="TS007"></include>
+        </run>
+    </groups>
+
     <listeners>
         <listener class-name="utilities.MyListener"></listener>
     </listeners>
@@ -9,141 +21,141 @@
     <test verbose="2" preserve-order="true" name="Test Cases Suite">
         <parameter name="browser" value="chrome"/>
         <classes>
-<!--            <class name="testCases.TC001">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC002">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC003">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC004">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC005">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC006">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC007">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC008">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC009">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC010">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC011">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC012">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC013">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC014">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC015">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC016">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC017">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC018">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC019">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC020">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC021">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC022">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC023">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC024">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC025">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC026">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
-<!--            <class name="testCases.TC027">-->
-<!--                <methods>-->
-<!--                    <include name="Login"/>-->
-<!--                </methods>-->
-<!--            </class>-->
+            <class name="testCases.TC001">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC002">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC003">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC004">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC005">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC006">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC007">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC008">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC009">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC010">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC011">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC012">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC013">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC014">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC015">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC016">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC017">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC018">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC019">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC020">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC021">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC022">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC023">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC024">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC025">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC026">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
+            <class name="testCases.TC027">
+                <methods>
+                    <include name="Login"/>
+                </methods>
+            </class>
             <class name="testCases.TC028">
                 <methods>
                     <include name="Resize"/>

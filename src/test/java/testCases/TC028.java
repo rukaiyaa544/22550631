@@ -10,7 +10,7 @@ import utilities.Responsiveness;
 
 public class TC028 extends BaseTest {
 
-    @Test(priority = 0)
+    @Test(priority = 0, groups = {"TS006"})
     public void Resize() {
 
         logger.info("***  Starting TC0028 Test Case - Checking the Responsiveness  ***");
@@ -28,7 +28,7 @@ public class TC028 extends BaseTest {
     }
 
 
-    @Test(priority = 1)
+    @Test(priority = 1, groups = {"TS006"})
     public void ResizeToMobile() {
         logger.info("***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***");
         try {
@@ -42,7 +42,7 @@ public class TC028 extends BaseTest {
         logger.info("***  Finish TC028 Test Case  ***");
     }
 
-    @Test(priority = 2)
+    @Test(priority = 2, groups = {"TS006"})
     public void ResizeToTablet() {
         logger.info("***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***");
         try {
@@ -57,7 +57,7 @@ public class TC028 extends BaseTest {
     }
 
 
-    @Test(priority = 3)
+    @Test(priority = 3, groups = {"TS006"})
     public void ResizeToLaptop() {
         logger.info("***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***");
         try {
@@ -74,7 +74,7 @@ public class TC028 extends BaseTest {
 
 
 
-        @Test(priority = 4)
+        @Test(priority = 4, groups = {"TS006"})
         public void ResizeToDesktop () {
             logger.info("***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***");
             try {

@@ -12,7 +12,7 @@ import utilities.Logout;
 
 public class TC021 extends BaseTest {
 
-    @Test
+    @Test (groups = {"TS005"})
     public void Login() {
         logger.info("***  Starting TC021 Test Case  ***");
         try {

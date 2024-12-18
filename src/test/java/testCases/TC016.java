@@ -13,7 +13,7 @@ import java.time.Duration;
 
 public class TC016 extends BaseTest {
 
-    @Test
+    @Test (groups = {"TS005"})
     public void Login() {
         logger.info("***  Starting TC016 Test Case  ***");
         try {

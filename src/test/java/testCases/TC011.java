@@ -11,12 +11,12 @@ import testBase.BaseTest;
 
 public class TC011 extends BaseTest {
 
-    @Test
-    public void Login() {
+    @Test (groups = {"TS003"})
+    public void SelectArtist2() {
         logger.info("***  Starting TC011 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);
-            hp.productCards();
+            hp.productPrints();
 
             PrintsPage product = new PrintsPage(driver);
             product.setAntonioGouveia();

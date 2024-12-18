@@ -11,8 +11,8 @@ import java.time.Duration;
 
 public class TC015 extends BaseTest {
 
-    @Test
-    public void Login(){
+    @Test (groups = {"TS004"})
+    public void ClickOnAProduct(){
         logger.info("***  Starting TC015 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);

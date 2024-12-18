@@ -10,15 +10,15 @@ import testBase.BaseTest;
 
 public class TC007 extends BaseTest {
 
-    @Test (dataProvider = "products")
-    public void Login( String productName){
+    @Test (dataProvider = "products", groups = {"TS002"})
+    public void Search3( String productName){
 
         try{
         HomePage hp = new HomePage(driver);
         hp.search(productName);
 
         WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Search']"));
-        Assert.assertTrue(myAccount.isDisplayed(), "Error in searching the item ");
+        Assert.assertFalse(myAccount.isDisplayed(), "Error in searching the item ");
 
 
     } catch(Exception e){

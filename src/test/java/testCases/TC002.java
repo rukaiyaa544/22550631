@@ -10,8 +10,8 @@ import testBase.BaseTest;
 
 public class TC002 extends BaseTest {
 
-    @Test
-    public void Login(){
+    @Test (groups = {"TS001"})
+    public void Login2(){
         logger.info("***  Starting TC002 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);
@@ -20,7 +20,7 @@ public class TC002 extends BaseTest {
             login.setLogin("test562467@gmail.com", "password123");
 
             WebElement myAccount = driver.findElement(By.xpath("//a[text()='My Account']"));
-            Assert.assertTrue(myAccount.isDisplayed(), "User did not log in successfully");
+            Assert.assertFalse(myAccount.isDisplayed(), "User did not log in successfully");
         } catch(Exception e){
             logger.error("Test has Failed.....");
             logger.debug("Debug logs");

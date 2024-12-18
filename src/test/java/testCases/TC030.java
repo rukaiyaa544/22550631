@@ -8,7 +8,7 @@ import utilities.ChatBot;
 
 public class TC030 extends BaseTest {
 
-    @Test(priority = 1)
+    @Test(priority = 1, groups = {"TS007"})
     public void Chat() {
         logger.info("***  Starting TC030 Test Case  ***");
         try {

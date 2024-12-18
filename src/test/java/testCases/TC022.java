@@ -11,7 +11,7 @@ import testBase.BaseTest;
 
 public class TC022 extends BaseTest {
 
-    @Test
+    @Test (groups = {"TS005"})
     public void Login(){
         logger.info("***  Starting TC022 Test Case  ***");
         try{

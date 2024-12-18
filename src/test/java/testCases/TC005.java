@@ -5,13 +5,12 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.HomePage;
-import pageObjects.LoginPage;
 import testBase.BaseTest;
 
 public class TC005 extends BaseTest {
 
-    @Test
-    public void Login(){
+    @Test (groups = {"TS002"})
+    public void Search1(){
         logger.info("***  Starting TC005 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);
