@@ -14,7 +14,7 @@ import java.time.Duration;
 public class TC013 extends BaseTest {
 
     @Test (groups = {"TS004"})
-    public void SelectArtist4() {
+    public void TC013_SelectArtist4() {
         logger.info("***  Starting TC013 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

@@ -11,7 +11,7 @@ import testBase.BaseTest;
 public class TC010 extends BaseTest {
 
     @Test (groups = {"TS003"})
-    public void SelectArtist1(){
+    public void TC010_SelectArtist1(){
         logger.info("***  Starting TC010 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

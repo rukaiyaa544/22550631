@@ -2,17 +2,22 @@ package testCases;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountPage;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseTest;
+import utilities.ChatBot;
+
+import java.time.Duration;
 
 public class TC022 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void Login(){
+    public void TC022_ChangeAccountDetails6(){
         logger.info("***  Starting TC022 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);
@@ -27,8 +32,9 @@ public class TC022 extends BaseTest {
         account.addAddress("Nora", "Jones", "Maple Street", " "," ","France", "00200", "0987654321" );
         account.setCancelAddress();
 
-        WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Add new address']"));
-        Assert.assertTrue(myAccount.isDisplayed(), "Error in adding a new address");
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        boolean isNotDisplayed = wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//h1[text()='Add new address']")));
+        Assert.assertTrue(isNotDisplayed, "Error in adding a new address");
 
 
     } catch(Exception e){

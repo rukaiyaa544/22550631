@@ -1,15 +1,13 @@
 package pageObjects;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utilities.Scroll;
 
 import java.time.Duration;
-import java.util.Random;
 
 import java.util.List;
 
@@ -127,22 +125,54 @@ public class CardsPage extends BasePage {
     }
 
 
-    public void clickProduct(Integer itemNumber) {
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-        List<WebElement> searchResults = driver.findElements(By.xpath("//section[@class='category-product-section section']"));
 
 
-        if (itemNumber < 0 || itemNumber >= searchResults.size()) {
-            System.err.println("Invalid item number: " + itemNumber);
-            return;
+
+        public void clickProduct(int productIndex) {
+            try {
+                // Wait for the product grid to load
+                WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+                List<WebElement> searchResults = wait.until(
+                        ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//div[@class='listWrapper columns is-mobile is-multiline clearfix']//div[contains(@class,'listItem')]"))
+                );
+
+                // Validate the product index
+                if (productIndex < 1 || productIndex > searchResults.size()) {
+                    System.err.println("Invalid product index: " + productIndex + ". Total products found: " + searchResults.size());
+                    return;
+                }
+
+                // Get the product at the specified index (adjust for 0-based indexing)
+                WebElement targetProduct = searchResults.get(productIndex - 1);
+
+                // Wait for the product to be clickable
+                wait.until(ExpectedConditions.elementToBeClickable(targetProduct));
+
+                // Scroll to the product if necessary
+                ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block: 'center', inline: 'nearest'});", targetProduct);
+
+                // Use Actions class to ensure reliable clicking
+                Actions actions = new Actions(driver);
+                actions.moveToElement(targetProduct).pause(Duration.ofMillis(500)).click(targetProduct).perform();
+
+                System.out.println("Successfully clicked on product at index " + productIndex + ".");
+            } catch (TimeoutException e) {
+                System.err.println("Search results did not load within the specified time: " + e.getMessage());
+            } catch (ElementClickInterceptedException e) {
+                System.err.println("Failed to click the product due to an overlay or obstruction: " + e.getMessage());
+            } catch (NoSuchElementException e) {
+                System.err.println("The specified product was not found: " + e.getMessage());
+            } catch (Exception e) {
+                System.err.println("An unexpected error occurred while clicking the product: " + e.getMessage());
+            }
         }
 
-        WebElement product = searchResults.get(itemNumber);
-        product.click();
-        System.out.println("Clicked on product number: " + itemNumber);
-    }
 
 
 }
+
+
+
+
 
 

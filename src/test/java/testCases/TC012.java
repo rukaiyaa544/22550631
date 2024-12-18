@@ -12,7 +12,7 @@ import testBase.BaseTest;
 public class TC012 extends BaseTest {
 
     @Test (groups = {"TS004"})
-    public void SelectArtist3() {
+    public void TC012_SelectArtist3() {
         logger.info("***  Starting TC012 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

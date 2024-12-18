@@ -9,12 +9,10 @@ import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseTest;
 
-import java.time.Duration;
-
 public class TC016 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void Login() {
+    public void TC016_ChangeAccountDetails1() {
         logger.info("***  Starting TC016 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

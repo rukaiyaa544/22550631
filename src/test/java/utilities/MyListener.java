@@ -33,8 +33,8 @@ public class MyListener implements ITestListener {
 
             // Initialize ExtentSparkReporter
             ExtentSparkReporter sparkReporter = new ExtentSparkReporter(reportPath);
-            sparkReporter.config().setDocumentTitle("Automation Report");
-            sparkReporter.config().setReportName("Functional Testing");
+            sparkReporter.config().setDocumentTitle("Selenium Automation Report");
+            sparkReporter.config().setReportName("Wisque- Selenium Automation Report");
             sparkReporter.config().setTheme(Theme.DARK);
 
             // Initialize ExtentReports and attach the reporter

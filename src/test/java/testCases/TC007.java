@@ -11,14 +11,14 @@ import testBase.BaseTest;
 public class TC007 extends BaseTest {
 
     @Test (dataProvider = "products", groups = {"TS002"})
-    public void Search3( String productName){
+    public void TC007_Search3( String productName){
 
         try{
         HomePage hp = new HomePage(driver);
         hp.search(productName);
 
-        WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Search']"));
-        Assert.assertFalse(myAccount.isDisplayed(), "Error in searching the item ");
+        WebElement search = driver.findElement(By.xpath("//h1[text()='Search']"));
+        Assert.assertTrue(search.isDisplayed(), "Error in searching the item ");
 
 
     } catch(Exception e){
@@ -40,7 +40,7 @@ public class TC007 extends BaseTest {
                 {"abc!@#"},
                 {"123!@#$"},
                 {"a1!@#"},
-                {"!@..#$%^&*..."},
+                {"!@..#$%^&*YU&*("}
 
         };
 

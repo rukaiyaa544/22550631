@@ -10,7 +10,7 @@ import testBase.BaseTest;
 public class TC006 extends BaseTest {
 
     @Test (groups = {"TS002"})
-    public void Search2(){
+    public void TC006_Search2(){
         logger.info("***  Starting TC006 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

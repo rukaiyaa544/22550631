@@ -11,7 +11,7 @@ import testBase.BaseTest;
 public class TC009 extends BaseTest {
 
     @Test (dataProvider = "products", groups = {"TS002"})
-    public void Search5( String productName){
+    public void TC009_Search5( String productName){
         logger.info("***  Starting TC009 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);

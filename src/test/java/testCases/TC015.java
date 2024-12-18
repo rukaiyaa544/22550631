@@ -12,7 +12,7 @@ import java.time.Duration;
 public class TC015 extends BaseTest {
 
     @Test (groups = {"TS004"})
-    public void ClickOnAProduct(){
+    public void TC015_ClickOnAProduct(){
         logger.info("***  Starting TC015 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);
@@ -20,7 +20,8 @@ public class TC015 extends BaseTest {
 
         CardsPage card = new CardsPage(driver);
         card.setAcceptBanner();
-        card.clickProduct(5);
+        card.clickProduct(4);
+
 
 
     } catch(Exception e){

@@ -12,7 +12,7 @@ import testBase.BaseTest;
 public class TC026 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void Login() {
+    public void TC026_ChangePassword1() {
         logger.info("***  Starting TC026 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

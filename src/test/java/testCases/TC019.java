@@ -12,7 +12,7 @@ import testBase.BaseTest;
 public class TC019 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void Login(){
+    public void TC019_ChangeAccountDetails4(){
         logger.info("***  Starting TC019 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);

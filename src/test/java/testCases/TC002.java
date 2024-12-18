@@ -11,7 +11,7 @@ import testBase.BaseTest;
 public class TC002 extends BaseTest {
 
     @Test (groups = {"TS001"})
-    public void Login2(){
+    public void TC002_Login2(){
         logger.info("***  Starting TC002 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

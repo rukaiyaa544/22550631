@@ -6,160 +6,160 @@
 
         <parameter name="browser" value="chrome"/>
         <classes>
-            <!--            <class name="testCases.TC001">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC002">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC003">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC004">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC005">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC006">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC007">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC008">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC009">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC010">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC011">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC012">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC013">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC014">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC015">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC016">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC017">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC018">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC019">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC020">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC021">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC022">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC023">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC024">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC025">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC026">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC027">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
+            <class name="testCases.TC001">
+                <methods>
+                    <include name="TC001_Login1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC002">
+                <methods>
+                    <include name="TC002_Login2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC003">
+                <methods>
+                    <include name="TC003_Login3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC004">
+                <methods>
+                    <include name="TC004_Login4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC005">
+                <methods>
+                    <include name="TC005_Search1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC006">
+                <methods>
+                    <include name="TC006_Search2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC007">
+                <methods>
+                    <include name="TC007_Search3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC008">
+                <methods>
+                    <include name="TC008_Search4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC009">
+                <methods>
+                    <include name="TC009_Search5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC010">
+                <methods>
+                    <include name="TC010_SelectArtist1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC011">
+                <methods>
+                    <include name="TC011_SelectArtist2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC012">
+                <methods>
+                    <include name="TC012_SelectArtist3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC013">
+                <methods>
+                    <include name="TC013_SelectArtist4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC014">
+                <methods>
+                    <include name="TC014_SelectArtist5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC015">
+                <methods>
+                    <include name="TC015_ClickOnAProduct"/>
+                </methods>
+            </class>
+            <class name="testCases.TC016">
+                <methods>
+                    <include name="TC016_ChangeAccountDetails1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC017">
+                <methods>
+                    <include name="TC017_ChangeAccountDetails2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC018">
+                <methods>
+                    <include name="TC018_ChangeAccountDetails3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC019">
+                <methods>
+                    <include name="TC019_ChangeAccountDetails4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC020">
+                <methods>
+                    <include name="TC020_LoginBack"/>
+                </methods>
+            </class>
+            <class name="testCases.TC021">
+                <methods>
+                    <include name="TC021_ChangeAccountDetails5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC022">
+                <methods>
+                    <include name="TC022_ChangeAccountDetails6"/>
+                </methods>
+            </class>
+            <class name="testCases.TC023">
+                <methods>
+                    <include name="TC023_Orders1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC024">
+                <methods>
+                    <include name="TC024_Orders2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC025">
+                <methods>
+                    <include name="TC025_CheckOrders"/>
+                </methods>
+            </class>
+            <class name="testCases.TC026">
+                <methods>
+                    <include name="TC026_ChangePassword1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC027">
+                <methods>
+                    <include name="TC027_ChangePassword2"/>
+                </methods>
+            </class>
             <class name="testCases.TC028">
                 <methods>
-                    <include name="Resize"/>
-                    <include name="ResizeToMobile"/>
-                    <include name="ResizeToTablet"/>
-                    <include name="ResizeToLaptop"/>
-                    <include name="ResizeToDesktop"/>
+                    <include name="TC028_Resize"/>
+                    <include name="TC028_ResizeToMobile"/>
+                    <include name="TC028_ResizeToTablet"/>
+                    <include name="TC028_ResizeToLaptop"/>
+                    <include name="TC028_ResizeToDesktop"/>
                 </methods>
             </class>
             <class name="testCases.TC029">
                 <methods>
-                    <include name="ScrollingBottom"/>
-                    <include name="ScrollingUp"/>
-                    <include name="ScrollingAtPosition"/>
+                    <include name="TC029_ScrollingBottom"/>
+                    <include name="TC029_ScrollingUp"/>
+                    <include name="TC029_ScrollingAtPosition"/>
                 </methods>
             </class>
             <class name="testCases.TC030">
                 <methods>
-                    <include name="Chat"/>
+                    <include name="TC030_Chat"/>
                 </methods>
             </class>
         </classes>
@@ -172,160 +172,160 @@
 
         <parameter name="browser" value="edge"/>
         <classes>
-            <!--            <class name="testCases.TC001">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC002">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC003">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC004">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC005">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC006">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC007">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC008">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC009">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC010">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC011">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC012">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC013">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC014">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC015">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC016">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC017">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC018">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC019">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC020">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC021">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC022">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC023">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC024">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC025">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC026">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC027">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
+            <class name="testCases.TC001">
+                <methods>
+                    <include name="TC001_Login1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC002">
+                <methods>
+                    <include name="TC002_Login2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC003">
+                <methods>
+                    <include name="TC003_Login3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC004">
+                <methods>
+                    <include name="TC004_Login4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC005">
+                <methods>
+                    <include name="TC005_Search1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC006">
+                <methods>
+                    <include name="TC006_Search2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC007">
+                <methods>
+                    <include name="TC007_Search3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC008">
+                <methods>
+                    <include name="TC008_Search4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC009">
+                <methods>
+                    <include name="TC009_Search5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC010">
+                <methods>
+                    <include name="TC010_SelectArtist1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC011">
+                <methods>
+                    <include name="TC011_SelectArtist2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC012">
+                <methods>
+                    <include name="TC012_SelectArtist3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC013">
+                <methods>
+                    <include name="TC013_SelectArtist4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC014">
+                <methods>
+                    <include name="TC014_SelectArtist5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC015">
+                <methods>
+                    <include name="TC015_ClickOnAProduct"/>
+                </methods>
+            </class>
+            <class name="testCases.TC016">
+                <methods>
+                    <include name="TC016_ChangeAccountDetails1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC017">
+                <methods>
+                    <include name="TC017_ChangeAccountDetails2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC018">
+                <methods>
+                    <include name="TC018_ChangeAccountDetails3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC019">
+                <methods>
+                    <include name="TC019_ChangeAccountDetails4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC020">
+                <methods>
+                    <include name="TC020_LoginBack"/>
+                </methods>
+            </class>
+            <class name="testCases.TC021">
+                <methods>
+                    <include name="TC021_ChangeAccountDetails5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC022">
+                <methods>
+                    <include name="TC022_ChangeAccountDetails6"/>
+                </methods>
+            </class>
+            <class name="testCases.TC023">
+                <methods>
+                    <include name="TC023_Orders1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC024">
+                <methods>
+                    <include name="TC024_Orders2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC025">
+                <methods>
+                    <include name="TC025_CheckOrders"/>
+                </methods>
+            </class>
+            <class name="testCases.TC026">
+                <methods>
+                    <include name="TC026_ChangePassword1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC027">
+                <methods>
+                    <include name="TC027_ChangePassword2"/>
+                </methods>
+            </class>
             <class name="testCases.TC028">
                 <methods>
-                    <include name="Resize"/>
-                    <include name="ResizeToMobile"/>
-                    <include name="ResizeToTablet"/>
-                    <include name="ResizeToLaptop"/>
-                    <include name="ResizeToDesktop"/>
+                    <include name="TC028_Resize"/>
+                    <include name="TC028_ResizeToMobile"/>
+                    <include name="TC028_ResizeToTablet"/>
+                    <include name="TC028_ResizeToLaptop"/>
+                    <include name="TC028_ResizeToDesktop"/>
                 </methods>
             </class>
             <class name="testCases.TC029">
                 <methods>
-                    <include name="ScrollingBottom"/>
-                    <include name="ScrollingUp"/>
-                    <include name="ScrollingAtPosition"/>
+                    <include name="TC029_ScrollingBottom"/>
+                    <include name="TC029_ScrollingUp"/>
+                    <include name="TC029_ScrollingAtPosition"/>
                 </methods>
             </class>
             <class name="testCases.TC030">
                 <methods>
-                    <include name="Chat"/>
+                    <include name="TC030_Chat"/>
                 </methods>
             </class>
         </classes>
@@ -339,164 +339,163 @@
 
         <parameter name="browser" value="firefox"/>
         <classes>
-            <!--            <class name="testCases.TC001">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC002">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC003">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC004">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC005">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC006">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC007">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC008">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC009">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC010">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC011">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC012">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC013">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC014">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC015">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC016">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC017">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC018">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC019">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC020">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC021">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC022">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC023">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC024">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC025">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC026">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
-            <!--            <class name="testCases.TC027">-->
-            <!--                <methods>-->
-            <!--                    <include name="Login"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
+            <class name="testCases.TC001">
+                <methods>
+                    <include name="TC001_Login1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC002">
+                <methods>
+                    <include name="TC002_Login2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC003">
+                <methods>
+                    <include name="TC003_Login3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC004">
+                <methods>
+                    <include name="TC004_Login4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC005">
+                <methods>
+                    <include name="TC005_Search1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC006">
+                <methods>
+                    <include name="TC006_Search2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC007">
+                <methods>
+                    <include name="TC007_Search3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC008">
+                <methods>
+                    <include name="TC008_Search4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC009">
+                <methods>
+                    <include name="TC009_Search5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC010">
+                <methods>
+                    <include name="TC010_SelectArtist1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC011">
+                <methods>
+                    <include name="TC011_SelectArtist2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC012">
+                <methods>
+                    <include name="TC012_SelectArtist3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC013">
+                <methods>
+                    <include name="TC013_SelectArtist4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC014">
+                <methods>
+                    <include name="TC014_SelectArtist5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC015">
+                <methods>
+                    <include name="TC015_ClickOnAProduct"/>
+                </methods>
+            </class>
+            <class name="testCases.TC016">
+                <methods>
+                    <include name="TC016_ChangeAccountDetails1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC017">
+                <methods>
+                    <include name="TC017_ChangeAccountDetails2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC018">
+                <methods>
+                    <include name="TC018_ChangeAccountDetails3"/>
+                </methods>
+            </class>
+            <class name="testCases.TC019">
+                <methods>
+                    <include name="TC019_ChangeAccountDetails4"/>
+                </methods>
+            </class>
+            <class name="testCases.TC020">
+                <methods>
+                    <include name="TC020_LoginBack"/>
+                </methods>
+            </class>
+            <class name="testCases.TC021">
+                <methods>
+                    <include name="TC021_ChangeAccountDetails5"/>
+                </methods>
+            </class>
+            <class name="testCases.TC022">
+                <methods>
+                    <include name="TC022_ChangeAccountDetails6"/>
+                </methods>
+            </class>
+            <class name="testCases.TC023">
+                <methods>
+                    <include name="TC023_Orders1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC024">
+                <methods>
+                    <include name="TC024_Orders2"/>
+                </methods>
+            </class>
+            <class name="testCases.TC025">
+                <methods>
+                    <include name="TC025_CheckOrders"/>
+                </methods>
+            </class>
+            <class name="testCases.TC026">
+                <methods>
+                    <include name="TC026_ChangePassword1"/>
+                </methods>
+            </class>
+            <class name="testCases.TC027">
+                <methods>
+                    <include name="TC027_ChangePassword2"/>
+                </methods>
+            </class>
             <class name="testCases.TC028">
                 <methods>
-                    <include name="Resize"/>
-                    <include name="ResizeToMobile"/>
-                    <include name="ResizeToTablet"/>
-                    <include name="ResizeToLaptop"/>
-                    <include name="ResizeToDesktop"/>
+                    <include name="TC028_Resize"/>
+                    <include name="TC028_ResizeToMobile"/>
+                    <include name="TC028_ResizeToTablet"/>
+                    <include name="TC028_ResizeToLaptop"/>
+                    <include name="TC028_ResizeToDesktop"/>
                 </methods>
             </class>
             <class name="testCases.TC029">
                 <methods>
-                    <include name="ScrollingBottom"/>
-                    <include name="ScrollingUp"/>
-                    <include name="ScrollingAtPosition"/>
+                    <include name="TC029_ScrollingBottom"/>
+                    <include name="TC029_ScrollingUp"/>
+                    <include name="TC029_ScrollingAtPosition"/>
                 </methods>
             </class>
             <class name="testCases.TC030">
                 <methods>
-                    <include name="Chat"/>
+                    <include name="TC030_Chat"/>
                 </methods>
             </class>
         </classes>
-
     </test>
 
 

@@ -75,7 +75,7 @@ public class TC028 extends BaseTest {
 
 
         @Test(priority = 4, groups = {"TS006"})
-        public void ResizeToDesktop () {
+        public void TC028_ResizeToDesktop () {
             logger.info("***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***");
             try {
                 Responsiveness res = new Responsiveness(driver);

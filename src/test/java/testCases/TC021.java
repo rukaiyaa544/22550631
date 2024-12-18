@@ -13,7 +13,7 @@ import utilities.Logout;
 public class TC021 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void Login() {
+    public void TC021_ChangeAccountDetails5() {
         logger.info("***  Starting TC021 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

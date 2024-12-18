@@ -18,7 +18,7 @@ public class HomePage extends BasePage {
     }
 
     // Locators
-    @FindBy(xpath = "//a[@name='LoginBack']")
+    @FindBy(xpath = "//a[@name='Login']")
     WebElement loginLink;
 
     @FindBy(xpath = "//i[@class='fas fa-search']")
@@ -59,6 +59,7 @@ public class HomePage extends BasePage {
 
     public void search(String productName){
         searchIcon.click();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         searchField.sendKeys(productName);
         goBtn.click();
 

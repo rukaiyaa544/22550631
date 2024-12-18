@@ -13,7 +13,7 @@ import utilities.Logout;
 public class TC020 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void LoginBack(){
+    public void TC020_LoginBack(){
         logger.info("***  Starting TC020 Test Case  ***");
         try{
         HomePage hp = new HomePage(driver);

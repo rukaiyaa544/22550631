@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.Select;
 
+import java.time.Duration;
+
 public class AccountPage extends BasePage {
 
 
@@ -118,8 +120,8 @@ public class AccountPage extends BasePage {
     @FindBy(xpath = "//input[@value='Change password']")
     WebElement changePasswordBtn;
 
-
-
+    @FindBy(xpath = "//button[@aria-label='Close message from company']")
+    WebElement closePopup;
 
 
 
@@ -162,7 +164,10 @@ public class AccountPage extends BasePage {
 
     public void setCancelAddress(){
         cancelAddress.click();
+        driver.switchTo().alert().accept();
     }
+
+
 
     public void goToOrders(){
         orders.click();

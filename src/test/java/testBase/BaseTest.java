@@ -7,7 +7,6 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.Platform;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
@@ -60,6 +59,9 @@ public class BaseTest {
                 case "edge":
                     capabilities.setBrowserName("edge");
                     break;
+                case "firefox":
+                    capabilities.setBrowserName("firefox");
+                    break;
                 default:
                     System.out.println("No matching browser");
                     return;
@@ -71,7 +73,7 @@ public class BaseTest {
             switch (br.toLowerCase()) {
                 case "chrome":
                     ChromeOptions opt = new ChromeOptions();
-                    //opt.addArguments("--headless");
+                    opt.addArguments("--headless");
                     opt.addArguments("--incognito");
                     opt.setExperimentalOption("excludeSwitches", new String[]{"enable-automation"});
                     driver = new ChromeDriver(opt);
@@ -122,7 +124,7 @@ public class BaseTest {
     @AfterClass (groups = {"TS001","TS002","TS003","TS004","TS005","TS006","TS007"})
     public void tearDown() {
         if (driver != null) {
-            //driver.quit();
+            driver.quit();
         }
     }
 }

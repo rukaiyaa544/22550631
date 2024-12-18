@@ -11,7 +11,7 @@ import testBase.BaseTest;
 public class TC003 extends BaseTest {
 
     @Test (groups = {"TS001"})
-    public void Login3(){
+    public void TC003_Login3(){
         logger.info("***  Starting TC003 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);
@@ -20,7 +20,7 @@ public class TC003 extends BaseTest {
             login.setLogin(" ", " ");
 
             WebElement myAccount = driver.findElement(By.xpath("//a[text()='My Account']"));
-            Assert.assertTrue(myAccount.isDisplayed(), "User did not log in successfully");
+            Assert.assertFalse(myAccount.isDisplayed(), "User did not log in successfully");
         } catch(Exception e){
             logger.error("Test has Failed.....");
             logger.debug("Debug logs");

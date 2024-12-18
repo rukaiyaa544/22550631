@@ -33,7 +33,7 @@ public class ChatBot extends BasePage {
 
 
     // Action Methods
-    private void handleCookieBanner(WebDriverWait wait) {
+    public void handleCookieBanner(WebDriverWait wait) {
         try {
             wait.until(ExpectedConditions.elementToBeClickable(closeBanner)).click();
             System.out.println("Cookie banner closed successfully.");

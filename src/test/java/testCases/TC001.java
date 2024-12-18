@@ -12,7 +12,7 @@ import pageObjects.LoginPage;
 public class TC001 extends BaseTest {
 
     @Test (groups = {"TS001"})
-    public void Login1() {
+    public void TC001_Login1() {
         logger.info("***  Starting TC001 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);

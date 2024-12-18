@@ -12,7 +12,7 @@ import testBase.BaseTest;
 public class TC025 extends BaseTest {
 
     @Test (groups = {"TS005"})
-    public void CheckOrders() {
+    public void TC025_CheckOrders() {
         logger.info("***  Starting TC025 Test Case  ***");
         try {
             HomePage hp = new HomePage(driver);
@@ -33,8 +33,8 @@ public class TC025 extends BaseTest {
             account.setPendingOrders();
 
 
-            WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Orders']"));
-            Assert.assertTrue(myAccount.isDisplayed(), "Error in filtering Orders");
+            WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Orders1']"));
+            Assert.assertTrue(myAccount.isDisplayed(), "Error in filtering Orders1");
 
 
         } catch (Exception e) {

@@ -39,7 +39,7 @@ public class TC029 extends BaseTest {
 
 
     @Test(priority = 3, groups = {"TS006"})
-    public void ScrollingAtPosition() {
+    public void TC029_ScrollingAtPosition() {
         logger.info("***  Starting TC029 Test Case  ***");
         try {
             Scroll scroll = new Scroll(driver);
