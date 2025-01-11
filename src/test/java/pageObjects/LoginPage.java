@@ -41,6 +41,12 @@ public class LoginPage extends BasePage {
         loginBtn.click();
     }
 
+    public void setLogin2(String email, String password){
+        emailField.sendKeys(email);
+        passwordField.sendKeys(password);
+        loginBtn.click();
+    }
+
 
 
 

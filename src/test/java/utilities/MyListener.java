@@ -10,6 +10,8 @@ import org.testng.ITestResult;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class MyListener implements ITestListener {
 
@@ -22,7 +24,8 @@ public class MyListener implements ITestListener {
         try {
             // Define the report directory and name with timestamp
             String reportDirectory = System.getProperty("user.dir") + File.separator + "reports";
-            String reportName = "myReport_" + System.currentTimeMillis() + ".html";
+            String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+            String reportName = "myReport_" + timestamp + ".html";
             reportPath = reportDirectory + File.separator + reportName;
 
             // Create the reports directory if it doesn't exist

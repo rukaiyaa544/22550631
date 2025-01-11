@@ -26,7 +26,7 @@ public class TC026 extends BaseTest {
             AccountPage account = new AccountPage(driver);
             account.changePassword("pa$sworD#123fas", "pa$sworD#123fas", "pa$sworD#123fas");
 
-            WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Change password']"));
+            WebElement myAccount = driver.findElement(By.xpath("//li[contains(text(),'The new password must be different from the old pa')]"));
             Assert.assertTrue(myAccount.isDisplayed(), "Error in changing the password");
 
 

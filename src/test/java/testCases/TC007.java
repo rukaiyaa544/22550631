@@ -36,8 +36,8 @@ public class TC007 extends BaseTest {
         Object data[][]={
                 {"asdlkfjsdlfj"},
                 {"!@#$%"},
-                {"@"},
-                {"abc!@#"},
+                {"J@"},
+                {"BHc!@&"},
                 {"123!@#$"},
                 {"a1!@#"},
                 {"!@..#$%^&*YU&*("}

@@ -33,8 +33,8 @@ public class TC022 extends BaseTest {
         account.setCancelAddress();
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        boolean isNotDisplayed = wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath("//h1[text()='Add new address']")));
-        Assert.assertTrue(isNotDisplayed, "Error in adding a new address");
+        WebElement myAccount = driver.findElement(By.xpath("//input[@title='Add new']"));
+        Assert.assertTrue(myAccount.isDisplayed(), "Error in adding a new address");
 
 
     } catch(Exception e){

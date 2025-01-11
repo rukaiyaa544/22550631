@@ -14,6 +14,7 @@ public class TC030 extends BaseTest {
         try {
             ChatBot chat = new ChatBot(driver);
             chat.openChatbot();
+
         } catch (Exception e) {
             logger.error("Test has Failed.....");
             logger.debug("Debug logs");

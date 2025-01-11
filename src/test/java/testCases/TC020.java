@@ -2,13 +2,17 @@ package testCases;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountPage;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import testBase.BaseTest;
+import utilities.ChatBot;
 import utilities.Logout;
+
+import java.time.Duration;
 
 public class TC020 extends BaseTest {
 
@@ -30,9 +34,12 @@ public class TC020 extends BaseTest {
         Logout logout  = new Logout(driver);
         logout.logout();
 
-        login.setLogin("test562467@gmail.com", "pa$sworD#123fas");
+        login.setLogin2("test562467@gmail.com", "pa$sworD#123fas");
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 
-        WebElement myAccount = driver.findElement(By.xpath("//a[text()='My Account']"));
+        hp.goToMyAccount();
+
+        WebElement myAccount = driver.findElement(By.xpath("//h2[@class='section-title subtitle is-4 is-spaced']"));
         Assert.assertTrue(myAccount.isDisplayed(), "User did not log in successfully");
 
 

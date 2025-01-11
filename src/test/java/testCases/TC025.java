@@ -33,7 +33,7 @@ public class TC025 extends BaseTest {
             account.setPendingOrders();
 
 
-            WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Orders1']"));
+            WebElement myAccount = driver.findElement(By.xpath("//h2[text()='Orders']"));
             Assert.assertTrue(myAccount.isDisplayed(), "Error in filtering Orders1");
 
 

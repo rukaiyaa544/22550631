@@ -1,5 +1,8 @@
 package testBase;
 
+import com.aventstack.extentreports.ExtentReports;
+import com.aventstack.extentreports.ExtentTest;
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -15,6 +18,8 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Properties;
 import java.time.Duration;
 
@@ -26,6 +31,42 @@ public class BaseTest {
     protected WebDriver driver;
     private String url = "https://www.wisque.com/";
     public Logger logger; //Log4j
+    protected static ExtentReports extent;
+    protected static ExtentTest test;
+    private String reportFileName;
+
+
+
+//Extent Report for each Test Case
+//    @BeforeSuite
+//    public void setUpReports() {
+//        // Create a unique file name for the Extent Report
+//        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+//        reportFileName = "ExtentReport_" + timestamp + ".html"; // Default report name
+//
+//        // Set up ExtentSparkReporter
+//        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("./reports/" + reportFileName);
+//        extent = new ExtentReports();
+//        extent.attachReporter(sparkReporter);
+//    }
+//
+//    public void setReportName(String customName) {
+//        String timestamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
+//        reportFileName = customName + "_" + timestamp + ".html";
+//
+//        // Reinitialize ExtentSparkReporter with the new name
+//        ExtentSparkReporter sparkReporter = new ExtentSparkReporter("./reports/" + reportFileName);
+//        extent = new ExtentReports();
+//        extent.attachReporter(sparkReporter);
+//    }
+//
+//    public static ExtentTest startTest(String testName) {
+//        test = extent.createTest(testName);
+//        return test;
+//    }
+
+
+
 
     @BeforeClass (groups = {"TS001","TS002","TS003","TS004","TS005","TS006","TS007"})
     @Parameters({"browsers", "execution_env", "os"})
@@ -95,6 +136,12 @@ public class BaseTest {
         driver.get(url);
     }
 
+
+
+
+
+
+
     @AfterMethod
     public void captureScreenshot(ITestResult result) {
         try {
@@ -121,10 +168,25 @@ public class BaseTest {
         }
     }
 
+
+
+
+
     @AfterClass (groups = {"TS001","TS002","TS003","TS004","TS005","TS006","TS007"})
     public void tearDown() {
         if (driver != null) {
             driver.quit();
         }
+
     }
+
+
+
+//    @AfterSuite
+//    public static void tearDownReport() {
+//        extent.flush(); }
+
+
 }
+
+

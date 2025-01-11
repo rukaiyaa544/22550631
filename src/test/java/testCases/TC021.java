@@ -28,7 +28,7 @@ public class TC021 extends BaseTest {
             account.addAddress("Nora", "Jones", "Maple Street", " ", " ", "France", "00200", "0987654321");
             account.setSaveAddress();
 
-            WebElement myAccount = driver.findElement(By.xpath("//h1[text()='Add new address']"));
+            WebElement myAccount = driver.findElement(By.xpath("//input[@title='Add new']"));
             Assert.assertTrue(myAccount.isDisplayed(), "Error in adding a new address");
 
 
