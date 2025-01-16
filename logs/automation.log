@@ -1,0 +1,912 @@
+21:17:04:017 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+21:17:08:358 [main] ERROR testCases.TC015 - Test has Failed.....
+21:17:08:358 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+21:18:37:205 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+21:18:41:226 [main] ERROR testCases.TC015 - Test has Failed.....
+21:18:41:226 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+21:22:20:912 [main] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+21:22:29:454 [main] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+21:23:40:594 [main] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+21:23:46:612 [main] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+22:38:52:960 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+22:38:55:201 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+22:38:58:606 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC001 - Test has Failed.....
+22:39:00:352 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC002 - Test has Failed.....
+22:39:11:997 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+22:39:14:137 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+22:39:17:493 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC003 - Test has Failed.....
+22:39:24:437 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC004 - Test has Failed.....
+22:39:25:616 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+22:39:35:335 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+22:39:42:960 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+22:39:51:009 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+22:39:56:222 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC019 - Test has Failed.....
+22:40:17:159 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+22:40:20:617 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+22:40:22:401 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC021 - Test has Failed.....
+22:40:39:713 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+22:40:41:110 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+22:40:46:290 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC022 - Test has Failed.....
+22:41:01:179 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+22:41:06:211 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC023 - Test has Failed.....
+22:41:21:343 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC011 - Test has Failed.....
+22:41:21:418 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+22:41:23:418 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+22:41:24:156 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+22:41:27:096 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+22:41:29:073 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+22:41:31:175 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+22:41:33:448 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+22:41:34:626 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+22:41:39:771 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC027 - Test has Failed.....
+22:41:43:237 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+22:41:50:479 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+22:42:00:215 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+22:42:00:652 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+22:42:05:280 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC024 - Test has Failed.....
+22:42:05:726 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC026 - Test has Failed.....
+22:42:18:285 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+22:42:19:860 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+22:42:23:124 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+22:42:31:884 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+22:42:33:369 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+22:42:36:931 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+22:42:41:924 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+22:42:50:067 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC018 - Test has Failed.....
+22:42:50:755 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+22:42:56:057 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC017 - Test has Failed.....
+22:43:04:056 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+22:43:09:066 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+22:43:13:010 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+22:43:14:086 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC016 - Test has Failed.....
+22:43:25:416 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+22:43:26:760 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+22:43:28:299 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:43:29:569 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+22:43:29:573 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+22:43:33:435 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+22:43:33:438 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+22:43:36:205 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+22:43:36:600 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+22:43:36:932 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:43:40:420 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:43:45:836 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+22:43:48:966 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+22:43:48:969 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+22:43:49:450 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:43:49:453 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+22:43:49:673 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+22:43:49:679 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+22:43:49:919 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:43:49:922 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+22:43:49:960 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+22:43:50:904 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+22:43:51:001 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:44:03:999 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+22:50:51:157 [main] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+22:51:21:775 [main] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+22:51:51:005 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+22:52:24:498 [main] ERROR testCases.TC011 - Test has Failed.....
+22:56:25:796 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+22:57:01:778 [main] ERROR testCases.TC011 - Test has Failed.....
+22:57:49:736 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+22:58:28:978 [main] ERROR testCases.TC011 - Test has Failed.....
+22:59:57:089 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+23:00:28:162 [main] ERROR testCases.TC011 - Test has Failed.....
+23:02:58:701 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+23:03:23:860 [main] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+23:04:56:060 [main] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+23:05:02:628 [main] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+09:05:31:366 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+09:05:31:369 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+09:05:36:666 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC025 - Test has Failed.....
+09:05:37:532 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC015 - Test has Failed.....
+09:05:51:087 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+09:05:51:126 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+09:05:56:141 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC017 - Test has Failed.....
+09:05:56:244 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC016 - Test has Failed.....
+09:06:12:761 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+09:06:13:684 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+09:06:17:852 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC024 - Test has Failed.....
+09:06:18:783 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC019 - Test has Failed.....
+09:06:33:430 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+09:06:33:630 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+09:06:38:535 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC026 - Test has Failed.....
+09:06:38:806 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC021 - Test has Failed.....
+09:06:55:329 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+09:06:56:535 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+09:07:00:862 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC027 - Test has Failed.....
+09:07:01:585 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC018 - Test has Failed.....
+09:07:30:693 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+09:07:33:384 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+09:07:35:966 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC022 - Test has Failed.....
+09:07:38:870 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC023 - Test has Failed.....
+09:07:48:345 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+09:07:55:576 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+09:07:57:405 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC001 - Test has Failed.....
+09:08:05:534 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC002 - Test has Failed.....
+09:08:25:332 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+09:08:30:726 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC003 - Test has Failed.....
+09:08:39:878 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+09:08:45:083 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC004 - Test has Failed.....
+09:08:59:516 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+09:09:04:696 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC020 - Test has Failed.....
+09:09:30:985 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+09:09:36:752 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+09:09:47:088 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+09:10:00:609 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+09:10:35:933 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+09:10:41:182 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+09:10:51:318 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+09:10:53:238 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+09:11:21:497 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+09:11:50:200 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+09:12:01:186 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+09:12:01:965 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+09:12:01:969 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+09:12:05:205 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+09:12:05:205 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+09:12:09:662 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+09:12:31:089 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+09:12:35:308 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+09:12:52:549 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+09:13:04:990 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+09:13:10:678 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+09:13:36:846 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+09:13:38:372 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+09:13:51:890 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+09:13:55:343 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+09:13:55:358 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+09:13:55:824 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+09:14:25:500 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+09:14:30:106 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+09:14:30:328 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+09:14:30:332 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+09:14:31:733 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+09:14:31:743 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+09:14:31:779 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+09:14:31:785 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+09:14:32:040 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+09:14:32:051 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+09:14:32:098 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+09:14:32:137 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+09:14:32:970 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+09:14:57:618 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+10:51:03:209 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+10:51:08:336 [main] ERROR testCases.TC001 - Test has Failed.....
+10:53:22:397 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+10:53:27:565 [main] ERROR testCases.TC001 - Test has Failed.....
+10:55:16:520 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+10:55:26:761 [main] ERROR testCases.TC001 - Test has Failed.....
+11:00:41:989 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+11:00:52:178 [main] ERROR testCases.TC001 - Test has Failed.....
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@name='LoginBack']"}
+  (Session info: chrome=131.0.6778.140)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3817f9d276c92ca3415b31325cff9501, findElement {using=xpath, value=//a[@name='LoginBack']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.140, chrome: {chromedriverVersion: 131.0.6778.108 (3b014839fbc..., userDataDir: C:\Users\RUKI__~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57436}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57436/devtoo..., se:cdpVersion: 131.0.6778.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3817f9d276c92ca3415b31325cff9501
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.26.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.26.0.jar:?]
+	at jdk.proxy2.$Proxy30.click(Unknown Source) ~[?:?]
+	at pageObjects.HomePage.navigateToLoginPage(HomePage.java:56) ~[test-classes/:?]
+	at testCases.TC001.Login1(TC001.java:23) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.10.2.jar:7.10.2]
+	at java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestRunner.run(TestRunner.java:614) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.10.2.jar:7.10.2]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.10.2.jar:7.10.2]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.10.2.jar:7.10.2]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+11:02:16:962 [main] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+11:02:27:144 [main] ERROR testCases.TC002 - Test has Failed.....
+11:06:32:839 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+11:08:57:574 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+11:09:36:874 [main] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+11:09:41:859 [main] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+11:10:09:918 [main] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+11:10:14:057 [main] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+11:14:19:034 [main] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+11:16:35:625 [main] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+11:16:42:393 [main] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+11:36:32:718 [main] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+11:36:35:804 [main] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+11:37:31:082 [main] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+11:38:20:380 [main] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+11:38:22:827 [main] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+11:38:59:911 [main] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+11:39:02:575 [main] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+11:39:02:812 [main] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+11:39:04:932 [main] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+11:39:05:212 [main] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+11:39:07:325 [main] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+11:39:41:956 [main] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+11:39:48:607 [main] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+11:40:54:120 [main] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+11:41:01:336 [main] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+11:42:13:427 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+11:42:17:701 [main] ERROR testCases.TC015 - Test has Failed.....
+11:49:49:362 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+11:49:53:249 [main] ERROR testCases.TC015 - Test has Failed.....
+11:56:02:631 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+11:56:06:585 [main] ERROR testCases.TC015 - Test has Failed.....
+12:13:19:609 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+12:13:23:284 [main] ERROR testCases.TC015 - Test has Failed.....
+12:26:37:715 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+12:26:42:093 [main] ERROR testCases.TC015 - Test has Failed.....
+12:34:19:681 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+12:34:23:685 [main] ERROR testCases.TC015 - Test has Failed.....
+12:37:06:369 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+12:37:10:303 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+12:45:19:855 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+12:45:23:532 [main] ERROR testCases.TC015 - Test has Failed.....
+13:01:08:890 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+13:01:12:784 [main] ERROR testCases.TC015 - Test has Failed.....
+13:11:14:727 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+13:11:21:072 [main] ERROR testCases.TC015 - Test has Failed.....
+13:35:31:320 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+13:35:35:818 [main] ERROR testCases.TC015 - Test has Failed.....
+13:39:40:211 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+13:39:44:630 [main] ERROR testCases.TC015 - Test has Failed.....
+13:45:27:181 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+13:45:31:094 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+15:08:46:387 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+15:08:54:515 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+15:32:09:036 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+15:32:15:117 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+15:36:04:815 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+15:36:09:701 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+15:41:23:908 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+15:41:28:872 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:09:54:739 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:09:58:719 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:13:57:566 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:14:24:687 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:21:21:766 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:21:26:854 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:27:09:526 [main] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:27:13:073 [main] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+17:17:25:916 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+17:17:27:174 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+17:17:35:795 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+17:17:37:205 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+17:17:47:674 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+17:17:48:823 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+17:17:56:969 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+17:17:57:495 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+17:18:07:085 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+17:18:12:360 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+17:18:25:232 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC022 - Test has Failed.....
+17:18:27:378 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC021 - Test has Failed.....
+17:18:36:029 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+17:18:38:602 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+17:18:46:971 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+17:18:47:410 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+17:18:58:375 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+17:18:58:681 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+17:19:03:447 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+17:19:09:696 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC025 - Test has Failed.....
+17:19:14:528 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+17:19:19:351 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+17:19:22:027 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+17:19:25:079 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+17:19:27:327 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+17:19:33:141 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+17:19:38:147 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+17:19:42:277 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+17:19:43:447 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+17:19:52:662 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+17:20:01:355 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC020 - Test has Failed.....
+17:20:03:715 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC023 - Test has Failed.....
+17:20:10:678 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+17:20:14:812 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+17:20:15:849 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+17:20:23:603 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC024 - Test has Failed.....
+17:20:26:408 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+17:20:30:014 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+17:20:35:815 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+17:20:41:649 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+17:20:47:973 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+17:20:49:862 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+17:20:53:384 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+17:20:56:436 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+17:21:07:717 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+17:21:08:700 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+17:21:11:020 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+17:21:11:023 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+17:21:13:464 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+17:21:13:470 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+17:21:15:591 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+17:21:26:490 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+17:21:36:165 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+17:21:46:848 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+17:21:53:727 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+17:21:53:762 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+17:22:05:308 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+17:22:05:587 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+17:22:12:429 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+17:22:15:552 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+17:22:16:544 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+17:22:16:899 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+17:22:21:157 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+17:22:27:785 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+17:22:27:811 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+17:22:27:812 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+17:22:27:986 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+17:22:27:995 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+17:22:28:120 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+17:22:28:123 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+17:22:28:256 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+17:22:28:286 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+17:22:28:363 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+17:22:28:749 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+17:22:28:834 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+17:22:42:586 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+17:45:06:971 [main] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+17:45:13:892 [main] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+17:45:57:556 [main] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+17:46:23:770 [main] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+17:48:26:377 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+17:48:37:066 [main] ERROR testCases.TC022 - Test has Failed.....
+17:50:37:402 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+17:50:48:306 [main] ERROR testCases.TC022 - Test has Failed.....
+17:53:13:305 [main] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+17:53:24:202 [main] ERROR testCases.TC023 - Test has Failed.....
+17:55:34:065 [main] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+17:55:49:996 [main] ERROR testCases.TC023 - Test has Failed.....
+18:00:31:024 [main] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+18:00:40:928 [main] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+18:01:47:887 [main] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+18:01:55:617 [main] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+18:06:17:717 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:06:20:489 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:06:22:255 [main] ERROR testCases.TC007 - Test has Failed.....
+18:06:24:529 [main] ERROR testCases.TC007 - Test has Failed.....
+18:06:26:581 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:06:28:465 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:06:30:365 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:07:39:638 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:07:41:491 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:07:42:315 [main] ERROR testCases.TC007 - Test has Failed.....
+18:07:44:071 [main] ERROR testCases.TC007 - Test has Failed.....
+18:07:46:069 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:07:47:853 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:07:49:721 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:11:10:535 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:11:12:303 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:11:13:050 [main] ERROR testCases.TC007 - Test has Failed.....
+18:11:14:904 [main] ERROR testCases.TC007 - Test has Failed.....
+18:11:16:853 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:11:19:236 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:11:21:151 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:14:30:992 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:14:32:942 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:14:33:702 [main] ERROR testCases.TC007 - Test has Failed.....
+18:14:35:558 [main] ERROR testCases.TC007 - Test has Failed.....
+18:14:38:127 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:14:40:037 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:14:42:691 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:16:24:779 [main] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+18:17:02:619 [main] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+18:17:04:904 [main] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+18:24:53:652 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+18:24:54:280 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+18:25:03:430 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+18:25:04:906 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+18:25:14:450 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+18:25:15:121 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+18:25:23:415 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+18:25:24:354 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+18:25:31:989 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+18:25:32:938 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+18:25:51:130 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC022 - Test has Failed.....
+18:25:55:201 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC021 - Test has Failed.....
+18:26:02:118 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+18:26:06:818 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+18:26:13:127 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+18:26:17:522 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+18:26:24:014 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+18:26:28:459 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+18:26:33:299 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+18:26:39:923 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC025 - Test has Failed.....
+18:26:44:354 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+18:26:49:501 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+18:26:50:145 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+18:26:55:262 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+18:26:57:691 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+18:27:05:254 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+18:27:05:512 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+18:27:10:490 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+18:27:15:706 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+18:27:21:374 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+18:27:29:938 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+18:27:32:851 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC020 - Test has Failed.....
+18:27:40:596 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+18:27:42:701 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+18:27:44:339 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+18:27:50:743 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+18:27:51:057 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+18:27:57:315 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+18:28:03:137 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+18:28:06:788 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+18:28:13:183 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:28:15:222 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:28:16:326 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+18:28:16:694 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+18:28:18:226 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC007 - Test has Failed.....
+18:28:19:736 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+18:28:21:416 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:28:23:612 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:28:25:780 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+18:28:34:081 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+18:28:37:354 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+18:28:37:357 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+18:28:39:622 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+18:28:40:224 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+18:28:40:236 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+18:28:42:358 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+18:28:54:078 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+18:29:11:263 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+18:29:23:364 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+18:29:24:688 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+18:29:30:877 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+18:29:36:076 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+18:29:38:268 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+18:29:44:657 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+18:29:52:159 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+18:29:52:848 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+18:29:53:450 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+18:29:54:981 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+18:30:03:594 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+18:30:03:674 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+18:30:03:674 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+18:30:03:853 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+18:30:03:857 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+18:30:03:888 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+18:30:03:904 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+18:30:04:140 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+18:30:04:147 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+18:30:04:177 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+18:30:05:236 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+18:30:05:344 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+18:30:17:809 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+18:55:00:199 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+18:55:10:268 [main] ERROR testCases.TC022 - Test has Failed.....
+18:57:11:964 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+18:57:22:238 [main] ERROR testCases.TC022 - Test has Failed.....
+18:59:54:343 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:00:04:297 [main] ERROR testCases.TC022 - Test has Failed.....
+19:06:23:663 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:06:33:888 [main] ERROR testCases.TC022 - Test has Failed.....
+19:12:53:515 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:13:09:630 [main] ERROR testCases.TC022 - Test has Failed.....
+19:16:20:335 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:16:41:443 [main] ERROR testCases.TC022 - Test has Failed.....
+19:22:13:974 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:22:35:410 [main] ERROR testCases.TC022 - Test has Failed.....
+19:32:49:942 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:33:08:790 [main] ERROR testCases.TC022 - Test has Failed.....
+19:34:48:986 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:35:10:317 [main] ERROR testCases.TC022 - Test has Failed.....
+19:44:50:690 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+19:45:08:089 [main] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+19:59:35:605 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+19:59:35:666 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+19:59:41:418 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+19:59:42:272 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+19:59:50:639 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+19:59:56:218 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+19:59:59:284 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+20:00:01:194 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+20:00:08:528 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+20:00:10:369 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+20:00:14:099 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+20:00:16:117 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+20:00:27:478 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+20:00:28:153 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+20:00:29:638 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+20:00:30:396 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC007 - Test has Failed.....
+20:00:31:070 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+20:00:32:276 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC007 - Test has Failed.....
+20:00:35:172 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+20:00:37:439 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+20:00:39:411 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+20:00:41:659 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+20:00:44:813 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+20:00:44:819 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+20:00:46:648 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+20:00:46:652 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+20:00:48:429 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+20:00:54:377 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+20:01:06:522 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+20:01:26:219 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+20:01:34:570 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+20:01:35:797 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+20:01:41:997 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+20:01:47:885 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+20:01:49:261 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+20:01:54:623 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+20:02:00:437 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+20:02:05:536 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+20:02:08:988 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+20:02:10:311 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+20:02:18:708 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+20:02:19:738 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+20:02:28:659 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+20:02:29:388 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+20:02:37:365 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+20:02:41:379 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+20:02:48:067 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+20:02:49:859 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+20:02:59:637 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+20:03:06:141 [TestNG-test-Test Cases Suite-2] ERROR testCases.TC020 - Test has Failed.....
+20:03:16:539 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+20:03:18:049 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC021 - Test has Failed.....
+20:03:29:560 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+20:03:34:978 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+20:03:39:025 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+20:03:40:256 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+20:03:52:049 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+20:03:52:614 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+20:04:01:611 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+20:04:08:211 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC025 - Test has Failed.....
+20:04:11:451 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+20:04:17:591 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+20:04:21:510 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+20:04:26:887 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+20:04:36:823 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+20:04:36:943 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+20:04:43:733 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+20:04:45:634 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+20:04:45:817 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:46:52:088 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+21:46:53:265 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:46:53:492 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+21:46:53:853 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:46:54:022 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+21:46:54:130 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:46:54:359 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+21:46:54:466 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:46:54:797 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+21:46:54:883 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:54:42:894 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+21:54:44:064 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:54:44:225 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+21:54:44:561 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:54:44:710 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+21:54:44:887 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:54:45:123 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+21:54:45:245 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:54:45:525 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+21:54:45:617 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:59:32:831 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+21:59:33:846 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:59:34:058 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+21:59:34:391 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:59:34:530 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+21:59:34:652 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:59:34:891 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+21:59:35:018 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+21:59:35:319 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+21:59:35:431 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:28:37:091 [main] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:28:58:971 [main] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+22:33:28:628 [main] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:33:49:965 [main] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+22:35:22:878 [main] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:35:44:348 [main] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+22:38:19:693 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+22:38:21:045 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:38:21:246 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+22:38:21:595 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:38:21:875 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+22:38:22:000 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:38:22:246 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+22:38:22:354 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:38:22:665 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+22:38:22:762 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:42:22:956 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Checking the Responsiveness  ***
+22:42:24:123 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:42:24:338 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Mobile device  ***
+22:42:24:723 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:42:24:883 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Tablet device  ***
+22:42:25:040 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:42:25:239 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Laptop device  ***
+22:42:25:367 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:42:25:609 [main] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+22:42:25:698 [main] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+22:47:28:311 [main] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:47:49:817 [main] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+22:54:52:727 [main] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+22:55:13:996 [main] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+14:13:40:234 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:13:42:747 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:13:43:776 [main] ERROR testCases.TC007 - Test has Failed.....
+14:13:45:887 [main] ERROR testCases.TC007 - Test has Failed.....
+14:13:49:176 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:13:51:445 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:13:53:637 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:16:30:890 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:16:33:124 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:16:34:043 [main] ERROR testCases.TC007 - Test has Failed.....
+14:16:36:086 [main] ERROR testCases.TC007 - Test has Failed.....
+14:16:38:678 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:16:41:188 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:16:43:946 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:20:217 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:22:450 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:24:593 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:26:758 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:28:891 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:31:132 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:18:33:217 [main] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+14:27:47:606 [main] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+14:28:04:777 [main] ERROR testCases.TC021 - Test has Failed.....
+14:55:48:555 [main] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+14:56:01:830 [main] INFO  testCases.TC021 - ***  Finish TC021 Test Case  ***
+15:01:49:252 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+15:02:11:272 [main] ERROR testCases.TC022 - Test has Failed.....
+15:05:19:638 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+15:05:47:201 [main] ERROR testCases.TC022 - Test has Failed.....
+15:08:34:207 [main] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+15:08:47:140 [main] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+15:20:25:754 [main] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+15:20:27:875 [main] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+15:20:38:937 [main] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+15:20:42:635 [main] ERROR testCases.TC027 - Test has Failed.....
+15:32:15:532 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+15:32:16:577 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+15:32:23:668 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+15:32:30:073 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+15:32:38:526 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+15:32:44:314 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+15:32:45:680 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+15:32:50:553 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+15:32:58:546 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+15:32:59:042 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+15:33:04:700 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+15:33:07:497 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+15:33:21:997 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+15:33:25:055 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:25:627 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+15:33:27:417 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:30:345 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:32:694 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:34:800 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:37:220 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:38:639 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+15:33:40:100 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+15:33:42:331 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+15:33:42:336 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+15:33:45:207 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+15:33:45:218 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+15:33:47:697 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+15:33:54:386 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+15:33:57:805 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+15:34:24:933 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+15:34:26:781 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+15:34:37:177 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+15:34:40:615 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+15:34:46:749 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+15:34:47:962 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+15:35:00:199 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+15:35:01:065 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+15:35:07:184 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+15:35:12:142 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+15:35:19:625 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+15:35:24:724 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+15:35:34:264 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+15:35:38:186 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+15:35:42:309 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+15:35:51:996 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+15:35:58:768 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+15:36:04:443 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+15:36:11:343 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+15:36:17:922 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+15:36:34:121 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC020 - Test has Failed.....
+15:36:34:739 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC021 - ***  Finish TC021 Test Case  ***
+15:36:48:456 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+15:36:50:090 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+15:37:01:948 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+15:37:05:678 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+15:37:12:113 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+15:37:22:125 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+15:37:25:080 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+15:37:36:969 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+15:37:38:756 [TestNG-test-Test Cases Suite-1] ERROR testCases.TC025 - Test has Failed.....
+15:37:50:229 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+15:37:51:033 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+15:37:59:040 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+15:38:05:474 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+15:38:10:878 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+15:38:14:177 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+15:38:25:750 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+15:41:41:493 [main] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+15:41:54:950 [main] ERROR testCases.TC025 - Test has Failed.....
+15:44:45:437 [main] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+15:44:53:681 [main] INFO  testCases.TC025 - ***  Finish TC025 Test Case  ***
+15:51:09:757 [main] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+15:51:27:682 [main] ERROR testCases.TC020 - Test has Failed.....
+16:05:05:055 [main] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:05:21:675 [main] ERROR testCases.TC020 - Test has Failed.....
+16:08:21:199 [main] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:08:37:239 [main] ERROR testCases.TC020 - Test has Failed.....
+16:20:42:329 [main] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:20:58:920 [main] ERROR testCases.TC020 - Test has Failed.....
+16:23:36:838 [main] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:23:52:622 [main] INFO  testCases.TC020 - ***  Finish TC020 Test Case  ***
+16:27:28:903 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+16:27:29:261 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+16:30:43:321 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+16:30:43:768 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+16:30:49:990 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+16:30:50:821 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+16:31:02:776 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+16:31:10:327 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+16:31:15:638 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+16:31:16:186 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+16:31:31:573 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+16:31:32:713 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+16:31:36:257 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+16:31:36:523 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+16:31:50:536 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+16:31:54:486 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:31:54:692 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+16:31:56:703 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:31:59:249 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:32:02:012 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:32:04:198 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:32:07:429 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:32:07:759 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:32:10:459 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:32:11:175 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:32:11:178 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:32:13:299 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:32:13:304 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:32:16:005 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:32:23:956 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+16:32:27:438 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+16:32:58:630 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+16:32:58:783 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+16:33:16:448 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+16:33:17:188 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+16:33:25:310 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+16:33:26:022 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+16:33:36:161 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+16:33:43:235 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:33:48:669 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:33:53:166 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+16:33:56:466 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+16:34:09:037 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+16:34:12:961 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+16:34:18:969 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+16:34:26:270 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+16:34:29:674 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+16:34:38:095 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+16:34:39:542 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+16:34:48:582 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:34:48:766 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+16:35:08:501 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Finish TC020 Test Case  ***
+16:35:10:407 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Finish TC021 Test Case  ***
+16:35:16:217 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+16:35:24:674 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+16:35:41:074 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+16:35:43:567 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+16:35:49:462 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+16:35:59:366 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+16:36:05:694 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+16:36:12:710 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC025 - ***  Finish TC025 Test Case  ***
+16:36:16:024 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+16:36:27:986 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+16:36:29:119 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+16:36:40:544 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+16:36:41:631 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+16:36:53:702 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+16:36:54:123 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+16:37:03:837 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
+16:37:07:221 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+16:37:07:780 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+16:50:25:154 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Starting TC002 Test Case  ***
+16:50:25:264 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Starting TC001 Test Case  ***
+16:50:33:093 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC001 - ***  Finish TC001 Test Case  ***
+16:50:40:233 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC002 - ***  Finish TC002 Test Case  ***
+16:50:42:650 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Starting TC003 Test Case  ***
+16:50:49:324 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC003 - ***  Finish TC003 Test Case  ***
+16:50:55:362 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Starting TC004 Test Case  ***
+16:51:01:490 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC004 - ***  Finish TC004 Test Case  ***
+16:51:02:183 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Starting TC005 Test Case  ***
+16:51:05:352 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC005 - ***  Finish TC005 Test Case  ***
+16:51:16:304 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Starting TC006 Test Case  ***
+16:51:21:033 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC006 - ***  Finish TC006 Test Case  ***
+16:51:29:272 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:31:228 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:31:573 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Starting TC008 Test Case  ***
+16:51:33:691 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:36:509 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:38:893 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC008 - ***  Finish TC008 Test Case  ***
+16:51:38:944 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:41:409 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:43:931 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC007 - ***  Finish TC007 Test Case  ***
+16:51:49:565 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:51:51:757 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Starting TC010 Test Case  ***
+16:51:58:772 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:51:58:783 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:52:01:479 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:52:01:484 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Starting TC009 Test Case  ***
+16:52:04:023 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC009 - ***  Finish TC009 Test Case  ***
+16:52:16:602 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Starting TC011 Test Case  ***
+16:52:23:983 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC010 - ***  Finish TC010 Test Case  ***
+16:52:35:608 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Starting TC012 Test Case  ***
+16:52:42:710 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC012 - ***  Finish TC012 Test Case  ***
+16:52:47:237 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC011 - ***  Finish TC011 Test Case  ***
+16:52:54:490 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Starting TC013 Test Case  ***
+16:52:59:114 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Starting TC014 Test Case  ***
+16:53:03:644 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC013 - ***  Finish TC013 Test Case  ***
+16:53:09:523 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC014 - ***  Finish TC014 Test Case  ***
+16:53:15:613 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Starting TC015 Test Case  ***
+16:53:20:323 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Starting TC016 Test Case  ***
+16:53:20:629 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC015 - ***  Finish TC015 Test Case  ***
+16:53:32:000 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Starting TC017 Test Case  ***
+16:53:34:977 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC016 - ***  Finish TC016 Test Case  ***
+16:53:42:543 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC017 - ***  Finish TC017 Test Case  ***
+16:53:48:128 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Starting TC018 Test Case  ***
+16:53:52:620 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Starting TC019 Test Case  ***
+16:54:00:574 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC018 - ***  Finish TC006 Test Case  ***
+16:54:02:177 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC019 - ***  Finish TC019 Test Case  ***
+16:54:12:470 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Starting TC020 Test Case  ***
+16:54:13:602 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Starting TC021 Test Case  ***
+16:54:30:331 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC020 - ***  Finish TC020 Test Case  ***
+16:54:30:417 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC021 - ***  Finish TC021 Test Case  ***
+16:54:37:489 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Starting TC022 Test Case  ***
+16:54:43:398 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Starting TC023 Test Case  ***
+16:54:53:978 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC023 - ***  Finish TC023 Test Case  ***
+16:54:59:794 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC022 - ***  Finish TC022 Test Case  ***
+16:55:06:237 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Starting TC024 Test Case  ***
+16:55:12:040 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Starting TC025 Test Case  ***
+16:55:16:583 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC024 - ***  Finish TC024 Test Case  ***
+16:55:24:177 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC025 - ***  Finish TC025 Test Case  ***
+16:55:25:934 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Starting TC026 Test Case  ***
+16:55:36:418 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Starting TC027 Test Case  ***
+16:55:40:678 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC026 - ***  Finish TC026 Test Case  ***
+16:55:46:729 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC027 - ***  Finish TC027 Test Case  ***
+16:55:46:869 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Starting TC030 Test Case  ***
+16:55:59:016 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Starting TC029 Test Case  ***
+16:55:59:173 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC029 - ***  Finish TC029 Test Case  ***
+16:56:09:626 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Starting TC0028 Test Case - Resizing the screen to a Desktop device  ***
+16:56:10:267 [TestNG-test-Test Cases Suite-1] INFO  testCases.TC028 - ***  Finish TC028 Test Case  ***
+16:56:13:973 [TestNG-test-Test Cases Suite-2] INFO  testCases.TC030 - ***  Finish TC030 Test Case  ***
